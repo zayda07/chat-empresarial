@@ -1,2 +1,2 @@
 # chat-empresarial
-chat
+chat.
